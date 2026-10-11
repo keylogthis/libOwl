@@ -19,12 +19,18 @@ Your library is stored only on your device. The app uses the network only for bo
 
 ## Screenshots
 
-<p>
-  <img src="docs/screenshots/1_main_screen.png" width="220" alt="Book list"> <img src="docs/screenshots/2_add_menu.png" width="220" alt="Add submenu"> <img src="docs/screenshots/3_book_view.png" width="220" alt="Book view">
-</p>
-<p>
-  <img src="docs/screenshots/4_loan_tool.png" width="220" alt="Loan tool"> <img src="docs/screenshots/5_stats.png" width="220" alt="Stats page"> <img src="docs/screenshots/6_manual_add.png" width="220" alt="Manual entry">
-</p>
+<table>
+  <tr>
+    <td align="center"><img src="docs/screenshots/1_main_screen.png" width="220"><br>Book list</td>
+    <td align="center"><img src="docs/screenshots/2_add_menu.png" width="220"><br>Add menu</td>
+    <td align="center"><img src="docs/screenshots/3_book_view.png" width="220"><br>Book view</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="docs/screenshots/4_loan_tool.png" width="220"><br>Loans</td>
+    <td align="center"><img src="docs/screenshots/5_stats.png" width="220"><br>Statistics</td>
+    <td align="center"><img src="docs/screenshots/6_manual_add.png" width="220"><br>Manual entry</td>
+  </tr>
+</table>
 
 
 ## Installing a release
